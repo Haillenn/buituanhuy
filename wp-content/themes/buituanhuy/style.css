@@ -1,0 +1,42 @@
+/*
+Theme Name: buituanhuy
+Theme URI: https://istudy-tracnghiem.com
+Author: Bui Tuan Huy
+Author URI: https://wordpress.org/
+Description: Theme danh cho Blog Bui Tuan Huy
+Domain: bth
+Requires at least: 5.3
+Tested up to: 5.6
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bth
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+        body {
+            background-color: #121212;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .navbar {
+            background-color: #1c1c1c;
+            border-radius: 10px;
+            padding: 10px;
+        }
+        .nav-item {
+            margin: 0 5px;
+        }
+        .nav-link {
+            color: #b3b3b3;
+            font-size: 24px;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        .nav-link:hover {
+            background-color: #333333;
+        }
