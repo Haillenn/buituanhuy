@@ -26,7 +26,7 @@ define( 'DB_NAME', 'buituanhuy_istudy' );
 define( 'DB_USER', 'buituanhuy_istudy' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'buituanhuy=-123' );
+define( 'DB_PASSWORD', '***' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
