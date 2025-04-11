@@ -1,6 +1,6 @@
 # buituanhuy
 
-**buituanhuy** is a personal blog website designed to share thoughts, experiences, and perspectives on various topics. The project is deployed and accessible at [buituanhuy.vercel.app](https://buituanhuy.vercel.app).
+**buituanhuy** is a personal blog website designed to share thoughts, experiences, and perspectives on various topics. The project is deployed and accessible at ...
 
 ---
 
